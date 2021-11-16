@@ -55,10 +55,10 @@ const Home = ({ id, add1, isBtnActive, onBlur1, userAcc, clicks, reputation, spe
                     <div className="kek"/>
                         <div className="balam">
                         <div className="balanceAmount">
-                                <center>+ {parseFloat(speed).toFixed(3)}/клик</center>
+                                <center>+ {parseFloat(speed).toFixed(3)}/click</center>
                         </div>
                         <div className="balanceAmount">
-                            <center>+ {parseFloat(aspeed).toFixed(3)}/сек</center>
+                            <center>+ {parseFloat(aspeed).toFixed(3)}/sec</center>
                         </div>
                             </div>
                             </div>
